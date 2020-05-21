@@ -3,3 +3,5 @@
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
+
+<p align="center"><img width=80% src="https://raw.githubusercontent.com/bhavanaeh/Virtual-Personal-Assistant-Sheldon/master/media/1.png"></p>
