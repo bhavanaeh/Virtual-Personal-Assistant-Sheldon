@@ -6,6 +6,16 @@
 
 <p align="center"><img width=80% src="media/1..gif"></p>
 
+## What can Sheldon do?
+> Besides dropping 60 IQ points to call himself a genius, pretty much everything
+1. Google queries for you
+2. Open and search YouTube
+3. Open any required website
+4. Send an email (without you having to type!)
+5. Define words according to dictionary.com and help with your vocabulary
+6. Tell you about today's weather and play music online
+7. Greet you (I know that's not very Sheldon like!)
+
 ## Download Dependencies
 ```bash
 pip install pyttsx3
