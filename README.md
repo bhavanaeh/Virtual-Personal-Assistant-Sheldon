@@ -44,3 +44,5 @@ import random
 import time
 import sys
 ```
+
+_This is just a weekend project though. It may not be perfect but it was super fun to make!_
