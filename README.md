@@ -1,5 +1,5 @@
 # Virtual Personal Assistant
-> Always wanted to have my personal assistant and well considering the current situation the only way that could happen was 'virtually'. So here's a little fun project I made after binge watching The Big Bang Theory for the millionth time xD
+> Always wanted to have my personal assistant but the only way that could happen is 'virtually'. So here's a little fun project I made after binge watching The Big Bang Theory for the millionth time xD
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
@@ -7,7 +7,7 @@
 <p align="center"><img width=80% src="media/1..gif"></p>
 
 ## What can Sheldon do?
-> Besides dropping 60 IQ points to call himself a genius, pretty much everything
+> Besides dropping 60 IQ points to call himself a genius, pretty much everything by automating tasks just by listening to you
 1. Google queries for you
 2. Open and search YouTube
 3. Open any required website
