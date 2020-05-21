@@ -8,14 +8,15 @@
 
 ## What can Sheldon do?
 > Besides dropping 60 IQ points to call himself a genius, pretty much everything by automating tasks just by listening to you
-1. Google queries for you
-2. Open and search YouTube
-3. Open any required website
-4. Summarize articles from wikipedia
-5. Send an email for you
-6. Define words according to dictionary.com and help with your vocabulary
-7. Tell you about today's weather, the time and play music online
-8. Greet you (I know that's not very Sheldon like!)
+1. Can recognize and respond to your voice commands (speech to text)
+2. Google queries for you
+3. Open and search YouTube
+4. Open any required website
+5. Summarize articles from wikipedia
+6. Send an email for you
+7. Define words according to dictionary.com and help with your vocabulary
+8. Tell you about today's weather, the time and play music online
+9. Greet you (I know that's not very Sheldon like!)
 
 ## Download Dependencies
 ```bash
